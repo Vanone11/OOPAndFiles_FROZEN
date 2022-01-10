@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPAndFiles", "OOPAndFiles\OOPAndFiles.csproj", "{F9F3FC9A-4FEC-4969-91CB-8A78F52D114C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frozen", "Frozen\Frozen.csproj", "{F1506963-D21B-43D6-9C00-FB3EC766780D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F9F3FC9A-4FEC-4969-91CB-8A78F52D114C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9F3FC9A-4FEC-4969-91CB-8A78F52D114C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9F3FC9A-4FEC-4969-91CB-8A78F52D114C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1506963-D21B-43D6-9C00-FB3EC766780D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1506963-D21B-43D6-9C00-FB3EC766780D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1506963-D21B-43D6-9C00-FB3EC766780D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1506963-D21B-43D6-9C00-FB3EC766780D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
